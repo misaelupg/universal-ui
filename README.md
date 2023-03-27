@@ -1,4 +1,4 @@
-# Svelte Universal UI
+# Svelte Universal UI Library
 
 Everything you need to build a Svelte library, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
